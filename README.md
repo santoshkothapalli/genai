@@ -8,3 +8,6 @@ langchain-google-genai
 streamlit
 
 Command : pip install google-generativeai langchain-google-genai streamlit
+
+In order to run the program:
+streamlit run <Location_of_the_file>/Gemini_Streamlit.py
